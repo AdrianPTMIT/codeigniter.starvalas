@@ -1,0 +1,104 @@
+CRITICAL - 2025-06-09 07:04:51 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "jijijj.php"
+[Method: GET, Route: /]
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 39.
+ 1 SYSTEMPATH/View/View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('jijijj.php')
+ 2 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('jijijj', [], true)
+ 3 APPPATH/Controllers/Home.php(10): view('jijijj')
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->index()
+ 5 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 /Applications/Herd.app/Contents/Resources/valet/server.php(167): require('/Applications/XAMPP/xamppfiles/htdocs/codeigniter/public/index.php')
+CRITICAL - 2025-06-09 07:08:08 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "starvalasvcs/home.php"
+[Method: GET, Route: /]
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 39.
+ 1 SYSTEMPATH/View/View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('starvalasvcs/home.php')
+ 2 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('starvalasvcs/home', [], true)
+ 3 APPPATH/Controllers/Home.php(10): view('starvalasvcs/home')
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->index()
+ 5 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 /Applications/Herd.app/Contents/Resources/valet/server.php(167): require('/Applications/XAMPP/xamppfiles/htdocs/codeigniter/public/index.php')
+CRITICAL - 2025-06-09 07:08:09 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "starvalasvcs/home.php"
+[Method: GET, Route: /]
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 39.
+ 1 SYSTEMPATH/View/View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('starvalasvcs/home.php')
+ 2 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('starvalasvcs/home', [], true)
+ 3 APPPATH/Controllers/Home.php(10): view('starvalasvcs/home')
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->index()
+ 5 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 /Applications/Herd.app/Contents/Resources/valet/server.php(167): require('/Applications/XAMPP/xamppfiles/htdocs/codeigniter/public/index.php')
+CRITICAL - 2025-06-09 07:08:09 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "starvalasvcs/home.php"
+[Method: GET, Route: /]
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 39.
+ 1 SYSTEMPATH/View/View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('starvalasvcs/home.php')
+ 2 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('starvalasvcs/home', [], true)
+ 3 APPPATH/Controllers/Home.php(10): view('starvalasvcs/home')
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->index()
+ 5 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 /Applications/Herd.app/Contents/Resources/valet/server.php(167): require('/Applications/XAMPP/xamppfiles/htdocs/codeigniter/public/index.php')
+CRITICAL - 2025-06-09 07:08:09 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "starvalasvcs/home.php"
+[Method: GET, Route: /]
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 39.
+ 1 SYSTEMPATH/View/View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('starvalasvcs/home.php')
+ 2 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('starvalasvcs/home', [], true)
+ 3 APPPATH/Controllers/Home.php(10): view('starvalasvcs/home')
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->index()
+ 5 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 /Applications/Herd.app/Contents/Resources/valet/server.php(167): require('/Applications/XAMPP/xamppfiles/htdocs/codeigniter/public/index.php')
+CRITICAL - 2025-06-09 07:08:09 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "starvalasvcs/home.php"
+[Method: GET, Route: /]
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 39.
+ 1 SYSTEMPATH/View/View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('starvalasvcs/home.php')
+ 2 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('starvalasvcs/home', [], true)
+ 3 APPPATH/Controllers/Home.php(10): view('starvalasvcs/home')
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->index()
+ 5 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 /Applications/Herd.app/Contents/Resources/valet/server.php(167): require('/Applications/XAMPP/xamppfiles/htdocs/codeigniter/public/index.php')
+CRITICAL - 2025-06-09 08:59:07 --> ParseError: syntax error, unexpected token "}", expecting ";"
+[Method: GET, Route: /]
+in APPPATH/Controllers/Home.php on line 13.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('/Applications/XAMPP/xamppfiles/htdocs/codeigniter/app/Controllers/Home.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 4 SYSTEMPATH/CodeIgniter.php(885): class_exists('\\App\\Controllers\\Home', true)
+ 5 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 /Applications/Herd.app/Contents/Resources/valet/server.php(167): require('/Applications/XAMPP/xamppfiles/htdocs/codeigniter/public/index.php')
+CRITICAL - 2025-06-09 08:59:09 --> ParseError: syntax error, unexpected token "}", expecting ";"
+[Method: GET, Route: /]
+in APPPATH/Controllers/Home.php on line 13.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('/Applications/XAMPP/xamppfiles/htdocs/codeigniter/app/Controllers/Home.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 4 SYSTEMPATH/CodeIgniter.php(885): class_exists('\\App\\Controllers\\Home', true)
+ 5 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 /Applications/Herd.app/Contents/Resources/valet/server.php(167): require('/Applications/XAMPP/xamppfiles/htdocs/codeigniter/public/index.php')
