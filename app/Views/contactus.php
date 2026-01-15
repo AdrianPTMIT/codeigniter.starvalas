@@ -31,7 +31,6 @@
 
     /* Fix for Google Maps clipping card & pin */
     height: 350px;
-    /* same as your screenshot */
     background: #eaeaea;
   }
 
